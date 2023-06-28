@@ -2,5 +2,5 @@ druhy soubor podruhe a potreti
 
 detaily vyrobku
 ---------------
-|      X      | 
+|     OO      | 
 ---------------
